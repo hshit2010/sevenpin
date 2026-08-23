@@ -35,38 +35,31 @@ you can install this by clicking on the big green code button and then clicking 
 
 ## 3D Case Design & Assembly
 
-### Overall Views
-| Isometric / Angled View | Top View |
-| :---: | :---: |
-| ![Isometric View](iso_view.png) | ![Top View](top_view.png) |
+## Case layout 
 
-| Front / Branding View | Side Profile |
-| :---: | :---: |
-| ![Front View](front_view.png) | ![Side View](side_view.png) |
-
----
+![Top View](top.png)
+![Front View](front.png)
+![Back View](back.png)
+![Left View](left.png)
+![Right View](right.png)
 
 ## PCB Layout
 ![PCB Layout](pcb.png)
 
----
-
 ## Schematic
 ![Schematic](schematic.png)
 
----
-
 ## Bill of Materials (BOM)
 
-| Item | Quantity | Description |
+| Item |                                     |Quantity | Description |
 | :--- | :--- | :--- |
-| Seeed Studio XIAO RP2040 | 1 | Main microcontroller board |
-| Mechanical Switches (Cherry MX style) | 6 | Key switches |
-| Rotary Encoder (EC11) | 1 | Encoder with push button |
-| 0.91" I2C OLED Display | 1 | 128x32 display module |
-| 1x4 Female Header Pin Socket | 1 | 2.54mm socket for OLED |
-| 3D Printed Case Parts | 1 Set | Top plate, middle walls, bottom plate, custom knob |
-| M2 / M3 Screws | 4 | Case assembly fasteners |
+| Seeed Studio XIAO RP2040                   | 1 | Main microcontroller board |
+| Mechanical Switches (Cherry MX style)      | 6 | Key switches |
+| Rotary Encoder (EC11)                      | 1 | Encoder with push button |
+| 0.91" I2C OLED Display                     | 1 | 128x32 display module |
+| 1x4 Female Header Pin Socket               | 1 | 2.54mm socket for OLED |
+| 3D Printed Case Parts                      | 1 Set | Top plate, middle walls, bottom plate |
+| M2 / M3 Screws                             | 4 | Case assembly fasteners |
 
 ---
 
