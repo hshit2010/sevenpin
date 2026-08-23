@@ -38,9 +38,13 @@ you can install this by clicking on the big green code button and then clicking 
 ## Case layout 
 
 ![Top View](top.png)
+
 ![Front View](front.png)
+
 ![Back View](back.png)
+
 ![Left View](left.png)
+
 ![Right View](right.png)
 
 ## PCB Layout
