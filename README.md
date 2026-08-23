@@ -61,7 +61,7 @@ you can install this by clicking on the big green code button and then clicking 
 
 ## Bill of Materials (BOM)
 
-| Item |                                     |Quantity | Description |
+`| Item |                                     |Quantity | Description |
 | :--- | :--- | :--- |
 | Seeed Studio XIAO RP2040                   | 1 | Main microcontroller board |
 
@@ -75,7 +75,7 @@ you can install this by clicking on the big green code button and then clicking 
 
 | 3D Printed Case Parts                      | 1 Set | Top plate, middle walls, bottom plate |
 
-| M2 / M3 Screws                             | 4 | Case assembly fasteners |
+| M2 / M3 Screws                             | 4 | Case assembly fasteners |`
 
 
 ---
