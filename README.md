@@ -61,9 +61,11 @@ you can install this by clicking on the big green code button and then clicking 
 
 ## Bill of Materials (BOM)
 
-| Item |                                     |Quantity | Description |
-| :--- | :--- | :--- |
-| Seeed Studio XIAO RP2040                   | 1 | Main microcontroller board |
+`| Item |                                     |Quantity | Description |`
+
+`| :--- | :--- | :--- |`
+
+`| Seeed Studio XIAO RP2040                   | 1 | Main microcontroller board |`
 
 | Mechanical Switches (Cherry MX style)      | 6 | Key switches |
 
