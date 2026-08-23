@@ -14,11 +14,17 @@ it has Seeed Studio XIAO RP2040 as the main microcontroller
 it uses KMK and is structured like this :
 
 -SW1: Copy (Ctrl+C)
+
 -SW2: Paste (Ctrl+V)
+
 -SW3: Cut (Ctrl+X)
+
 -SW4: Undo (Ctrl+Z)
+
 -SW5: Save (Ctrl+S)
+
 -SW6: Select All (Ctrl+A)
+
 -Dial: Volume Up / Down & Mute
 
 ## softwares used:
