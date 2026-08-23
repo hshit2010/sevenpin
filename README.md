@@ -55,6 +55,7 @@ you can install this by clicking on the big green code button and then clicking 
 
 ## PCB Layout
 ![PCB Layout](pcb.png)
+![pcb 3d](sevenpin.png)
 
 ## Schematic
 ![Schematic](schematic.png)
