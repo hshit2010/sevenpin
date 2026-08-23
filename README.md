@@ -61,13 +61,13 @@ you can install this by clicking on the big green code button and then clicking 
 
 ## Bill of Materials (BOM)
 
-` | Item |                                     |Quantity | Description |`
-`| :--- | :--- | :--- |
-| Seeed Studio XIAO RP2040                   | 1 | Main microcontroller board |`
+| Item |                                     |Quantity | Description |
+| :--- | :--- | :--- |
+| Seeed Studio XIAO RP2040                   | 1 | Main microcontroller board |
 
-`| Mechanical Switches (Cherry MX style)      | 6 | Key switches |`
+| Mechanical Switches (Cherry MX style)      | 6 | Key switches |
 
-| Rotary Encoder (EC11)                      | 1 | Encoder with push button |`
+| Rotary Encoder (EC11)                      | 1 | Encoder with push button |
 
 | 0.91" I2C OLED Display                     | 1 | 128x32 display module |
 
