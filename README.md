@@ -67,17 +67,17 @@ you can install this by clicking on the big green code button and then clicking 
 
 `| Seeed Studio XIAO RP2040                   | 1 | Main microcontroller board |`
 
-| Mechanical Switches (Cherry MX style)      | 6 | Key switches |
+`| Mechanical Switches (Cherry MX style)      | 6 | Key switches |`
 
-| Rotary Encoder (EC11)                      | 1 | Encoder with push button |
+`| Rotary Encoder (EC11)                      | 1 | Encoder with push button |`
 
-| 0.91" I2C OLED Display                     | 1 | 128x32 display module |
+`| 0.91" I2C OLED Display                     | 1 | 128x32 display module |`
 
-| 1x4 Female Header Pin Socket               | 1 | 2.54mm socket for OLED |
+`| 1x4 Female Header Pin Socket               | 1 | 2.54mm socket for OLED |`
 
-| 3D Printed Case Parts                      | 1 Set | Top plate, middle walls, bottom plate |
+`| 3D Printed Case Parts                      | 1 Set | Top plate, middle walls, bottom plate |`
 
-| M2 / M3 Screws                             | 4 | Case assembly fasteners |
+`| M2 / M3 Screws                             | 4 | Case assembly fasteners |`
 
 
 ---
